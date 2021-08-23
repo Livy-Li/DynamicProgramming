@@ -1,4 +1,4 @@
-# Inventory Optimaization with Dynamic Programming
+# Inventory Optimization with Dynamic Programming
 Stochastic Inventory Management using the Markov Decision Process (MDP)
 
 ---
